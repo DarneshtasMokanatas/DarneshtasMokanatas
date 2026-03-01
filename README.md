@@ -1,6 +1,6 @@
 Hi, I'm Darneshtas! 👋
 
-I'm 21 and studying Computer Science. I love tech and building software.
+I'm 22 and studying Computer Science. I love tech and building software.
 
 🎓 Education: Bachelor of CS at UOW Malaysia KDU Penang.
 
